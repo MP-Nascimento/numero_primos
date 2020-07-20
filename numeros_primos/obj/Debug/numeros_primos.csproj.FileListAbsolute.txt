@@ -1,0 +1,6 @@
+/Volumes/Backup/Repositorios/C#/numeros_primos/numeros_primos/bin/Debug/numeros_primos.exe
+/Volumes/Backup/Repositorios/C#/numeros_primos/numeros_primos/bin/Debug/numeros_primos.pdb
+/Volumes/Backup/Repositorios/C#/numeros_primos/numeros_primos/obj/Debug/numeros_primos.csprojAssemblyReference.cache
+/Volumes/Backup/Repositorios/C#/numeros_primos/numeros_primos/obj/Debug/numeros_primos.csproj.CoreCompileInputs.cache
+/Volumes/Backup/Repositorios/C#/numeros_primos/numeros_primos/obj/Debug/numeros_primos.exe
+/Volumes/Backup/Repositorios/C#/numeros_primos/numeros_primos/obj/Debug/numeros_primos.pdb
